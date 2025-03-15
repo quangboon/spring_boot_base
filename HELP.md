@@ -5,3 +5,4 @@ docker-compose up --build
 clone source: git clone 
 update source: git pull
 commit code: git push
+check branch: git branch
