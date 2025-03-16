@@ -1,3 +1,5 @@
 com/example/phong/demo/DemoApplication.class
 com/example/phong/config/SecurityConfig.class
 com/example/phong/config/OpenApiConfig.class
+com/example/phong/controller/TestController.class
+com/example/phong/config/DocsConfig.class
